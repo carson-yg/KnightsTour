@@ -2,7 +2,7 @@
 
 # Visualization of Knight's Tour
 
-<img src="your-direct-gif-url-here" alt="Knight's Tour Gif">
+<img src="https://github.com/carson-yg/KnightsTour/blob/main/KnightTour-2/SolutionGif.gif" alt="Knight's Tour Gif">
 
 </div>
 
