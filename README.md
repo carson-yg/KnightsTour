@@ -14,7 +14,7 @@ This project implements a solution to the [Knight's Tour](https://en.wikipedia.o
 
 ## Optimized Heuristic Solution 🚀
 
-In addition to the basic heuristic, an optimized solution is provided that includes a tie-breaking mechanism to enhance the effectiveness of the algorithm:
+In addition to the basic heuristic, an optimized solution is provided that includes a tie-breaking mechanism:
 
 - **Accessibility**: For each potential move, we calculate the accessibility (the number of valid onward moves possible from that position). We then select the move with the highest accessibility, thereby preserving more options for future moves.
   
