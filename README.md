@@ -16,7 +16,7 @@ This project implements a solution to the [Knight's Tour](https://en.wikipedia.o
 
 In addition to the basic heuristic, there's optimized solution that includes a tie-breaking mechanism:
 
-- **Accessibility**: For each potential move, we calculate the accessibility (the number of valid onward moves possible from that position). We then select the move with the highest accessibility, thereby preserving more options for future moves.
+- **Accessibility**: For each potential move, we calculate the accessibility (the number of valid onward moves possible from that position). We then select the move with the highest accessibility, preserving more options for future moves.
   
 - **Random Selection**: If multiple moves have the same level of accessibility, the algorithm randomly selects from these tied moves.
 
