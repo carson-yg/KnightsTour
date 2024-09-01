@@ -1,6 +1,10 @@
+<div align="center">
+
 # Visualization of Knight's Tour
 
-![Knight's Tour Gif](https://github.com/carson-yg/KnightsTour/blob/main/KnightTour-2/SolutionGif.gif)
+<img src="your-direct-gif-url-here" alt="Knight's Tour Gif">
+
+</div>
 
 ## Heuristic Solution
 
