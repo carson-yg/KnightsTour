@@ -1,6 +1,6 @@
 <div align="center">
 
-# Visualization of Knight's Tour
+# ♞ Visualization of Knight's Tour ♞
 
 <img src="https://github.com/carson-yg/KnightsTour/blob/main/KnightTour-2/SolutionGif.gif" alt="Knight's Tour Gif">
 
