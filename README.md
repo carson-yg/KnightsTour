@@ -1,1 +1,1 @@
-# KnightsTour
+# Visualization of Knight's Tour
