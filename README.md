@@ -8,7 +8,7 @@
 
 ## Heuristic Solution 📈
 
-This project implements a solution to the Knight's Tour problem using [Warnsdorff's rule](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorf's_rule), a heuristic following these principles:
+This project implements a solution to the [Knight's Tour](https://en.wikipedia.org/wiki/Knight%27s_tour#) problem using [Warnsdorff's rule](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorf's_rule), a heuristic following these principles:
 
 - The knight is moved to a square from which the knight will have the fewest onward moves. The idea is to always move the knight to a position where there are fewer possibilities for future moves, ensuring that no squares are missed.
 
