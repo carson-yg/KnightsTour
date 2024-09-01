@@ -19,3 +19,13 @@ In addition to the basic heuristic, an optimized solution is provided that inclu
 - **Accessibility**: For each potential move, we calculate the accessibility (the number of valid onward moves possible from that position). We then select the move with the highest accessibility, thereby preserving more options for future moves.
   
 - **Random Selection**: If multiple moves have the same level of accessibility, the algorithm randomly selects from these tied moves.
+
+## Usage 🎮
+
+- **Moving Your Knight**: Click on any square within the GUI to place your knight's starting position
+
+- **Next Button**: Moves the knight to the next optimal position based on the selected heuristic, allowing you to step through the tour one move at a time.
+
+- **Run Button**: Automatically visualizes the entire Knight's Tour, displaying each move sequentially. Each visited square will be numbered to indicate the order in which the knight made its stops.
+
+- **Stop Button**: Stops the visualization
